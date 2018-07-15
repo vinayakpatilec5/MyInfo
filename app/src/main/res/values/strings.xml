@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyInfo</string>
+    <string name="toolbar_text">My Info</string>
+    <string name="search_hinttext">Search Info...</string>
+    <string name="app_tagline">Get Imformation from Wikipedia</string>
+    <string name="emptysearch_text">NO DATA FOUND</string>
+    <string name="backbtn_text">Press Back button again, in order to exit</string>
+    <string name="nointernet_text">NO INTERNET CONNECTION</string>
+    <string name="nosearch_text">Search value can not be empty.</string>
+</resources>
